@@ -2,7 +2,7 @@
   "apps": [
     {
       "appId": "7f4e85f3",
-      "root": "apps/customers",
+      "root": "apps/employees",
       "dependencyInstallCommand": "cd ../../ && npx lerna bootstrap && npx lerna run build --scope=@myorg/core"
     }
   ]
